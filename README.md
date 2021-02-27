@@ -3,9 +3,9 @@ Linear Regression without built-in functions.
 
 This contains the following with respect to Diabetes Dataset of Sklearn:
 
-  Train and Test split
-  Cost Function (returning initial cost)
-  Gradient Descent (updates cost and weights)
-  Iteration Plot
-  Final Plot
-  Testing Error
+  1) Train and Test split
+  2) Cost Function (returning initial cost)
+  3) Gradient Descent (updates cost and weights)
+  4) Iteration Plot
+  5) Final Plot
+  6) Testing Error
